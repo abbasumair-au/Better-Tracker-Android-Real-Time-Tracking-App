@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "1072417198008",
+    "firebase_url": "https://bettertracker-194608.firebaseio.com",
+    "project_id": "bettertracker-194608",
+    "storage_bucket": "bettertracker-194608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072417198008:android:c116928fb47e30d0",
+        "android_client_info": {
+          "package_name": "com.example.murtaza.bettertracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072417198008-f3kbeuf54j3hvfrkfa3n9cpe6m2vvp85.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1072417198008-7eubsmbliifv74mbrbl8lnqi2l4esvet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvpRwMde8iuUvBRYEY0tTwNzCYe8HASxw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072417198008-f3kbeuf54j3hvfrkfa3n9cpe6m2vvp85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

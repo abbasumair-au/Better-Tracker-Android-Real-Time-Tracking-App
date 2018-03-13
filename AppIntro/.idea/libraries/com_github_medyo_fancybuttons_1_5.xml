@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.medyo:fancybuttons-1.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b2b91e3f63eeabc256a33fa0fcac540d1b0ac6eb/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b2b91e3f63eeabc256a33fa0fcac540d1b0ac6eb/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.medyo/fancybuttons/1.5/f44716b546697861e4d2c6aa843466dc322bcd0d/fancybuttons-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
