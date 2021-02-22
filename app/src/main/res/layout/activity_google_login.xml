@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.murtaza.bettertracker.ui.home.GoogleLogin">
+
+    <Button
+        android:id="@+id/google_sign_in"
+        android:layout_width="330dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/startbuttonstroke"
+        android:drawableLeft="@drawable/google_black"
+        android:drawablePadding="-30dp"
+        android:paddingLeft="15dp"
+        android:text="Continue with google"
+        android:onClick="onClick"
+        android:textAllCaps="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+    <Button
+        android:id="@+id/google_sign_out"
+        android:layout_width="330dp"
+        android:layout_height="60dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:background="@drawable/startbuttonstroke"
+        android:drawableLeft="@drawable/google_black"
+        android:drawablePadding="-30dp"
+        android:paddingLeft="15dp"
+        android:text="Continue with google"
+        android:textAllCaps="true"
+        android:onClick="onClick"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/google_sign_in"/>
+
+</android.support.constraint.ConstraintLayout>
